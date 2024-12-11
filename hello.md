@@ -27,7 +27,10 @@
 
 - 현재 version2 만들고 수정
 - main 브랜치 만들고 수정
+- 다시 version 2에서 수정
 - 현재 version3 까지 만들고 수정
 - version3을 main에 통합
 - origin/main 원격저장소에서 pull
 - version3 삭제
+
+
