@@ -40,4 +40,8 @@
 - version3 삭제
 - version4 실수로 생성해서 main에 바로 병합
 
+## master checkout
+
+- 테스트
+- 마스터 작업내용
 
